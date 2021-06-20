@@ -1,0 +1,159 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #E4F7F6;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#E4F7F6;
+}
+/* 
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  position: relative;
+  scroll-behavior: smooth;
+} */
+
+li {
+  /* float: right; */
+  color: #C17B14;
+}
+
+li a {
+  display: block;
+  color:#C17B14;
+  text-align: center;
+  padding: 14px 16px;
+ font-style:Mongolian Baiti;
+ font-size:28.97px;
+}
+
+li a:hover {
+  background-color:#E4F7F6
+}
+
+u1.a{
+  list-style: none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+.hello {
+  font-size: 45px;
+  font-style: Mongolian Baiti; 
+  text-align: left;
+  color: #C17B14;
+  padding: 150px;
+  margin-left: 150px;
+}
+
+.intro {
+  font-size:45px;
+  font-family: "Halimun";
+  text-align: left;
+  color: #C17B14;
+  margin-top: -140px;
+  margin-left: 60px;
+}
+
+.portname{
+  margin-right:20px ;
+  margin-left:10px;
+}
+
+.b{
+  text-align: right;
+}
+
+#box{
+  width: 350px;
+  height: 350px;
+  margin-right: 30px;
+  margin-top:-270px;
+
+}
+
+.category {
+  font-size:45px;
+  font-family:"Mongolian Baiti";
+  text-align: left;
+  color:#C17B14;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+#services{
+  text-decoration: none;
+  margin-left: 350px;
+  margin-top:100px;
+  background-color:#C17B14;
+}
+
+.myservi{
+  text-align: center;
+  font: size 28px;
+  font-family:"Mongolian Baiti";
+  color:#C17B14;
+  margin-top:125px;
+  
+}
+
+.c {
+  text-align:left;
+  
+}
+#box1 {
+  width:1300px ;
+  height:300px;
+}
+.d{
+  text-align: center;
+  width: 350px;
+  height:44px;
+  font-family:"Mongolian Baiti";
+  color:#C17B14;
+   font-size:28pt;
+}
+#box2{
+  width: 300px;
+  height:450px;
+  margin-top:-180px ;
+  margin-left:20px; 
+}
+.e{
+  text-align: center;
+  margin-top:10px;
+  font-family:"Mongolian Baiti";
+  color:#C17B14; 
+  font-size: 28pt;
+}
+
+  #box3{
+  width: 300px;
+  height:450px;
+  margin-top: -240px;
+
+  
+
+}
+.f{
+  text-align:right;
+  margin-top:-450px;
+  margin-left:950px;
+  margin-right:75px;
+  margin-bottom:20px;
+  font-family:"Mongolian Baiti";
+  color:#C17B14;
+  font-size: 28pt;
+}
